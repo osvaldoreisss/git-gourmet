@@ -10,14 +10,22 @@
 | [Pastel de feira](recipes/pastel-de-feira/pt-BR.md) | [Brazilian street-market pastel](recipes/pastel-de-feira/en.md) | 🧪 a testar / to test |
 | [Coxinha e bolinha de queijo (massa de batata)](recipes/coxinha-e-bolinha-de-queijo/pt-BR.md) | [Coxinha & cheese balls (potato dough)](recipes/coxinha-e-bolinha-de-queijo/en.md) | 🧪 a testar / to test |
 | [Empadinha de frango](recipes/empadinha-de-frango/pt-BR.md) | [Chicken empadinha](recipes/empadinha-de-frango/en.md) | 🧪 a testar / to test |
+| [Pão de queijo mineiro](recipes/pao-de-queijo/pt-BR.md) | [Brazilian cheese bread](recipes/pao-de-queijo/en.md) | 🧪 a testar / to test |
 
 Listas de compras / Shopping lists: [`shopping/`](shopping/)
+
+## Experimentos / Experiments
+
+| Experimento | Experiment | Status |
+|---|---|---|
+| [Proporção polvilho azedo × doce](experiments/pao-de-queijo-proporcao-polvilho/pt-BR.md) | [Sour × sweet starch ratio](experiments/pao-de-queijo-proporcao-polvilho/en.md) | 📋 planejado / planned |
 
 ## Estrutura / Layout
 
 ```
 recipes/<receita>/pt-BR.md   # versão em português
 recipes/<receita>/en.md      # English version
+experiments/<teste>/{pt-BR,en}.md   # testes controlados de uma variável / one-variable tests
 shopping/<data>-<evento>.<lang>.md
 ```
 
