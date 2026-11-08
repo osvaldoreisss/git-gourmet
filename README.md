@@ -11,6 +11,7 @@
 | [Coxinha e bolinha de queijo (massa de batata)](recipes/coxinha-e-bolinha-de-queijo/pt-BR.md) | [Coxinha & cheese balls (potato dough)](recipes/coxinha-e-bolinha-de-queijo/en.md) | 🧪 a testar / to test |
 | [Empadinha de frango](recipes/empadinha-de-frango/pt-BR.md) | [Chicken empadinha](recipes/empadinha-de-frango/en.md) | 🧪 a testar / to test |
 | [Pão de queijo mineiro](recipes/pao-de-queijo/pt-BR.md) | [Brazilian cheese bread](recipes/pao-de-queijo/en.md) | 🧪 a testar / to test |
+| [Pãezinhos de leite (fermentação fria)](recipes/pao-de-leite/pt-BR.md) | [Cold-fermented milk bread rolls](recipes/pao-de-leite/en.md) | ✅ aprovado / approved |
 
 Listas de compras / Shopping lists: [`shopping/`](shopping/)
 
