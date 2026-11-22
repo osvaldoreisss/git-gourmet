@@ -16,7 +16,7 @@ Scalded cassava starch, aged cheese, oven. The sour/sweet starch ratio is being 
 
 ## Ingredients
 
-- 400 g sour cassava starch (*polvilho azedo*; Brazilian/Latin shops or online: Yoki, Amafil)
+- 300 g sour cassava starch (*polvilho azedo*) + 100 g sweet cassava starch (*polvilho doce*) — **75/25**, chosen in [experiment 1](../../experiments/pao-de-queijo-proporcao-polvilho/en.md); Brazilian/Latin shops or online: Yoki, Amafil
 - 200 ml milk
 - 100 ml water
 - 100 g vegetable oil
@@ -41,8 +41,9 @@ Freeze raw and bake straight from frozen: 180 °C, 35–40 min.
 
 ## Test notes
 
-- _(fill in after cooking)_
+- Experiment 1 (through 2026-11-22): 75 % sour / 25 % sweet preferred. Size and crispness similar at every ratio; no batch rose much; cheesier and less airy. Main suspects: too much cheese and too low an oven → [experiment 2](../../experiments/pao-de-queijo-queijo-e-forno/en.md).
 
 ## Decision log
 
 - 2026-10-18: added from the post; cheese adapted to Gouda + Parmesan; sour/sweet starch ratio experiment planned.
+- 2026-11-22: starch changed from 100 % sour to 75 % sour / 25 % sweet (experiment 1). Cheese and oven still being tested.

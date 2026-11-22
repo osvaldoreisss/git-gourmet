@@ -2,8 +2,9 @@
 title: "Experimento: proporção polvilho azedo × doce no pão de queijo"
 lang: pt-BR
 recipe: ../../recipes/pao-de-queijo/pt-BR.md
-status: planejado
+status: concluído
 date: 2026-10-18
+done: 2026-11-22
 ---
 
 # Experimento: proporção polvilho azedo × doce
@@ -54,18 +55,30 @@ date: 2026-10-18
 - **Sabor:** acidez 1–5; nota geral 1–5.
 - **Às cegas** se possível: outra pessoa serve sem dizer qual lote é qual.
 
-## Resultados
+## Resultados (registrado em 22/11/2026)
 
-| Lote | Consistência da massa | Diâmetro (cm) | Altura (cm) | Crocância | Miolo | Oco? | Acidez | Nota geral |
-|---|---|---|---|---|---|---|---|---|
-| A100 | | | | | | | | |
-| A75 | | | | | | | | |
-| A50 | | | | | | | | |
-| A25 | | | | | | | | |
-| A0 | | | | | | | | |
+Avaliação qualitativa; diâmetro e altura não foram medidos.
 
-**Expectativa (a confirmar):** mais azedo → cresce mais, mais crocante, mais oco e levemente ácido; mais doce → mais denso, macio e elástico.
+| Lote | Tamanho | Crocância | Preferência |
+|---|---|---|---|
+| A100 | similar aos demais | similar | — |
+| **A75** | similar aos demais | similar | **melhor** |
+| A50 | similar aos demais | similar | — |
+| A25 | similar aos demais | similar | — |
+| A0 | similar aos demais | similar | — |
+
+- Nenhum lote cresceu muito.
+- O resultado geral ficou **mais queijudo e menos aerado** do que o esperado.
+
+**Expectativa original:** mais azedo → cresce mais, mais crocante, mais oco; mais doce → mais denso. **Não confirmada:** tamanho e crocância não variaram de forma perceptível com a proporção.
 
 ## Conclusão
 
-- _(preencher)_ → atualizar a proporção em `recipes/pao-de-queijo/`.
+- **Proporção escolhida: 75 % azedo / 25 % doce** → adotada em `recipes/pao-de-queijo/`.
+- Como o tamanho foi parecido em todos os lotes, inclusive com 100 % azedo, a proporção de polvilho **não é o fator que limita o crescimento**. O limite está em algo comum a todos os lotes.
+- Hipóteses para o pouco crescimento, da mais à menos provável:
+  1. **Queijo demais:** 87,5 g/100 g de polvilho (muitas receitas mineiras: 50–70 g). Explica ao mesmo tempo "queijudo" e "pouco aerado".
+  2. **Forno baixo:** 180 °C constante; a casca firma antes do vapor expandir a massa.
+  3. **Escaldamento fraco:** lotes pequenos (~100 g de líquido) esfriam rápido e gelatinizam menos amido.
+  4. **Polvilho azedo de baixa expansão** (marca seca em estufa e não ao sol). Compatível com A100 ≈ A0.
+- Próximo passo: [experimento 2 — quantidade de queijo e forno](../pao-de-queijo-queijo-e-forno/pt-BR.md).

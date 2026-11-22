@@ -16,7 +16,7 @@ Polvilho escaldado, queijo curado e forno. A proporção de polvilho azedo e doc
 
 ## Ingredientes
 
-- 400 g de polvilho azedo (lojas brasileiras/latinas ou online: Yoki, Amafil)
+- 300 g de polvilho azedo + 100 g de polvilho doce (**75/25**, escolhido no [experimento 1](../../experiments/pao-de-queijo-proporcao-polvilho/pt-BR.md)); lojas brasileiras/latinas ou online: Yoki, Amafil
 - 200 ml de leite
 - 100 ml de água
 - 100 g de óleo
@@ -41,8 +41,9 @@ Congelar cruas e assar direto do freezer: 180 °C, 35–40 min.
 
 ## Notas de teste
 
-- _(preencher depois de fazer)_
+- Experimento 1 (até 22/11/2026): 75 % azedo / 25 % doce foi o preferido. Tamanho e crocância parecidos em todas as proporções; nenhum lote cresceu muito; ficou mais queijudo e menos aerado. Suspeita principal: queijo demais e forno baixo → [experimento 2](../../experiments/pao-de-queijo-queijo-e-forno/pt-BR.md).
 
 ## Histórico de decisões
 
 - 2026-10-18: adicionada a partir do post; queijo adaptado para Gouda + Parmesão; experimento de proporção azedo/doce planejado.
+- 2026-11-22: polvilho trocado de 100 % azedo para 75 % azedo / 25 % doce (experimento 1). Queijo e forno ainda em teste.

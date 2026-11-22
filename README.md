@@ -19,7 +19,8 @@ Listas de compras / Shopping lists: [`shopping/`](shopping/)
 
 | Experimento | Experiment | Status |
 |---|---|---|
-| [Proporção polvilho azedo × doce](experiments/pao-de-queijo-proporcao-polvilho/pt-BR.md) | [Sour × sweet starch ratio](experiments/pao-de-queijo-proporcao-polvilho/en.md) | 📋 planejado / planned |
+| [Proporção polvilho azedo × doce](experiments/pao-de-queijo-proporcao-polvilho/pt-BR.md) | [Sour × sweet starch ratio](experiments/pao-de-queijo-proporcao-polvilho/en.md) | ✅ concluído / done — 75/25 |
+| [Quantidade de queijo e forno](experiments/pao-de-queijo-queijo-e-forno/pt-BR.md) | [Cheese amount and oven](experiments/pao-de-queijo-queijo-e-forno/en.md) | 📋 planejado / planned |
 
 ## Estrutura / Layout
 

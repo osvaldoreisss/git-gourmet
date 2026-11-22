@@ -2,8 +2,9 @@
 title: "Experiment: sour × sweet cassava starch ratio in pão de queijo"
 lang: en
 recipe: ../../recipes/pao-de-queijo/en.md
-status: planned
+status: done
 date: 2026-10-18
+done: 2026-11-22
 ---
 
 # Experiment: sour × sweet cassava starch ratio
@@ -54,18 +55,30 @@ date: 2026-10-18
 - **Flavor:** sourness 1–5; overall 1–5.
 - **Blind** if possible: someone else serves without saying which batch is which.
 
-## Results
+## Results (logged 2026-11-22)
 
-| Batch | Dough consistency | Diameter (cm) | Height (cm) | Crispness | Crumb | Hollow? | Sourness | Overall |
-|---|---|---|---|---|---|---|---|---|
-| A100 | | | | | | | | |
-| A75 | | | | | | | | |
-| A50 | | | | | | | | |
-| A25 | | | | | | | | |
-| A0 | | | | | | | | |
+Qualitative evaluation; diameter and height were not measured.
 
-**Expectation (to be confirmed):** more sour → more rise, crispier, hollower, slightly tangy; more sweet → denser, softer, chewier.
+| Batch | Size | Crispness | Preference |
+|---|---|---|---|
+| A100 | similar to the rest | similar | — |
+| **A75** | similar to the rest | similar | **best** |
+| A50 | similar to the rest | similar | — |
+| A25 | similar to the rest | similar | — |
+| A0 | similar to the rest | similar | — |
+
+- No batch rose much.
+- Overall the bread came out **cheesier and less airy** than expected.
+
+**Original expectation:** more sour → more rise, crispier, hollower; more sweet → denser. **Not confirmed:** size and crispness did not noticeably vary with the ratio.
 
 ## Conclusion
 
-- _(fill in)_ → update the ratio in `recipes/pao-de-queijo/`.
+- **Chosen ratio: 75 % sour / 25 % sweet** → adopted in `recipes/pao-de-queijo/`.
+- Since size was similar in every batch, 100 % sour included, the starch ratio is **not what limits the rise**. The limit is something all batches shared.
+- Hypotheses for the poor rise, most to least likely:
+  1. **Too much cheese:** 87.5 g per 100 g starch (many Minas recipes: 50–70 g). Explains both "cheesy" and "not airy".
+  2. **Oven too low:** constant 180 °C; the crust sets before steam expands the dough.
+  3. **Weak scalding:** small batches (~100 g liquid) cool fast and gelatinize less starch.
+  4. **Low-expansion sour starch** (oven-dried rather than sun-dried brand). Consistent with A100 ≈ A0.
+- Next: [experiment 2 — cheese amount and oven](../pao-de-queijo-queijo-e-forno/en.md).
